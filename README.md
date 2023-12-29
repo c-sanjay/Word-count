@@ -35,8 +35,7 @@ with open('ex88.txt','r') as file1:
         num_words += len(word)
 print("Number of words={}".format(num_words))
 ```
-
 ### OUTPUT:
-![](./output.png)
+![](./OUTPUT.png)
 ## RESULT:
 Thus the program is written to find the word count from a text.
